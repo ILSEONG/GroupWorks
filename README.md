@@ -19,7 +19,7 @@
     </td>
     <td>
         <img src="https://avatars.githubusercontent.com/u/66054061?v=4">
-        <img src="https://github-readme-stats.vercel.app/api?username=sczzsccs">
+        <img src="https://github-readme-stats.vercel.app/api?username=ILSEONG">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILSEONG">
     </td>
     <td>
